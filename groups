@@ -1,3 +1,5 @@
-# UUID                                  	Group Name
-#
-db30b127c52f97e4b670d45b22223b74c1f56e18	puppet-cinder-distgit-ptl
+# UUID          Group Name
+6ddfecad023c6f4fa3ac8c4d2583c502ea675a73 	Non-Interactive Users
+a7a183d01865c312b90c83dcc6606c03c98e89fa       	puppet-cinder-distgit-core
+db30b127c52f97e4b670d45b22223b74c1f56e18        	puppet-cinder-distgit-ptl
+global:Registered-Users		Registered Users
