@@ -14,8 +14,9 @@ Requires:       puppet-qpid
 Requires:       puppet-inifile
 Requires:       puppet-keystone
 Requires:       puppet-rabbitmq
-Requires:       puppet-stdlib
+Requires:       puppet-oslo
 Requires:       puppet-openstacklib
+Requires:       puppet-stdlib
 Requires:       puppet >= 2.7.0
 
 %description
