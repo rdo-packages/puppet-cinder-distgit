@@ -57,3 +57,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/cinder/
 - Update to 9.2.0
 
 
+# REMOVEME: error caused by commit http://git.openstack.org/cgit/openstack/puppet-cinder/commit/?id=a91078e18ed749aa4536f652197447f9e77dabd5
