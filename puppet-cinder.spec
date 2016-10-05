@@ -1,7 +1,7 @@
 %{!?upstream_version: %global upstream_version %{version}%{?milestone}}
 Name:           puppet-cinder
-Version:        9.4.1
-Release:        1%{?dist}
+Version:        XXX
+Release:        XXX
 Summary:        Puppet module for OpenStack Cinder
 License:        Apache-2.0
 
@@ -47,5 +47,3 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/cinder/
 
 
 %changelog
-* Wed Oct 05 2016 Alan Pevec <alan.pevec@redhat.com> 9.4.1-1
-- Update to 9.4.1
