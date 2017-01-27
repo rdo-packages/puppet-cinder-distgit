@@ -3,7 +3,7 @@ Name:           puppet-cinder
 Version:        9.6.0
 Release:        1%{?dist}
 Summary:        Puppet module for OpenStack Cinder
-License:        Apache-2.0
+License:        ASL 2.0
 
 URL:            https://launchpad.net/puppet-cinder
 
