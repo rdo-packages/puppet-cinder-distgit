@@ -23,7 +23,7 @@ Requires:       puppet >= 2.7.0
 Puppet module for OpenStack Cinder
 
 %prep
-%setup -q -n openstack-cinder-%{version}
+%setup -q -n openstack-cinder-%{upstream_version}
 
 find . -type f -name ".*" -exec rm {} +
 find . -size 0 -exec rm {} +
