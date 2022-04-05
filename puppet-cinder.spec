@@ -65,3 +65,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/cinder/
 
 %changelog
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/puppet-cinder/commit/9e8bc5526ad8d53cfd355f5236d916cc743e2d20
